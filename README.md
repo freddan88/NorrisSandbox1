@@ -1,3 +1,9 @@
+# NorrisSandbox1
+
+This React App was developed on elementary OS 5.0 Juno x86_64 (Linux 4.15.0-65-generic)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +72,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# NorrisSandbox1
