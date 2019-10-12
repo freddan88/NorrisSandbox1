@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 80px;
+  color: white;
+}
+
+
+.main-content img{
+  margin: 20px 0;
+}
+
+.main-content a{
+  background-color: firebrick;
+  color: azure;
+  text-decoration: none;
+  padding: 20px;
+}
+
+.main-content p{
+  background-color: rgba(0,0,0,0.5);
+  display: block;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.main-header{
+  height: 100px;
+}
+
+.main-header img{
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  margin: 0;
+}
